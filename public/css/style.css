@@ -1,0 +1,42 @@
+* {
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.footer {
+    margin-top: 12px;
+    color: white;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .jam-body {
+    margin-top: 120px;
+    background-color: salmon;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.running-text {
+    margin-top: 120px;
+    background-color: darkslategray;
+    padding: 10px 0;
+}
+
+.footer_fixed {
+    position: fixed;
+    top: 63%;
+}
+
+.kotak {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+iframe {
+    border-radius: 15px;
+}
